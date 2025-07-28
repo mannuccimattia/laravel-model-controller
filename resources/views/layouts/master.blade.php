@@ -11,7 +11,9 @@
 </head>
 
 <body>
-
+    <header>
+        Laravel Movies
+    </header>
     <main>
         @yield('content')
     </main>
