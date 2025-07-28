@@ -17,7 +17,7 @@
     <header class="bg-dark py-5 my-5 text-center text-danger">
         <h1 class="fw-semibold">Laravel Movies</h1>
     </header>
-    <main>
+    <main class="mb-5">
         @yield('content')
     </main>
 
